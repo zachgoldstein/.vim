@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/zacharygoldstein/Dropbox/appmonsta'
 let g:netrw_dirhist_2='/Users/zacharygoldstein/Dropbox/projects/romanceTextApp'
+let g:netrw_dirhist_3='/Users/zacharygoldstein/Dropbox/appmonsta/scrappstore'
+let g:netrw_dirhist_4='/Users/zacharygoldstein/Dropbox/projects/romanceTextApp'
+let g:netrw_dirhist_5='/Users/zacharygoldstein/Dropbox/appmonsta'
