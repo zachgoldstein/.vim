@@ -28,6 +28,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'klen/python-mode'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'vim-ruby/vim-ruby'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
